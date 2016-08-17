@@ -10,4 +10,5 @@ target 'Weather_MVVM' do
     pod 'RealmSwift'
     pod 'RxAlamofire'
     pod 'SwiftyJSON'
+    pod 'SwiftLoader'
 end
